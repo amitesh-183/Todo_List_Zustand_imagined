@@ -1,6 +1,8 @@
-# To-Do List Application
+# To-Do List Application - Imagined Assignment - B.Amitesh
 
 A functional and visually appealing To-Do List application built using Next.js, Zustand, and Tailwind CSS.
+
+## Live Link - https://todo-list-zustand-imagined.vercel.app/
 
 ## Features
 
